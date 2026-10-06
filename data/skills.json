@@ -1,0 +1,49 @@
+{
+    "programming": [
+        "python",
+        "java",
+        "javascript",
+        "ruby"
+    ],
+
+    "frontend": [
+        "html",
+        "css",
+        "react"
+    ],
+
+    "backend": [
+        "django",
+        "flask",
+        "node",
+        "node.js",
+        "express",
+        "express.js"
+    ],
+
+    "database": [
+        "sql",
+        "mysql",
+        "mongodb"
+    ],
+
+    "devops": [
+        "git",
+        "github",
+        "docker",
+        "aws"
+    ],
+
+    "data": [
+        "pandas",
+        "numpy"
+    ],
+
+    "other": [
+        "api",
+        "rest api",
+        "streamlit",
+        "artificial intelligence",
+        "computer networking"
+    ]
+}
